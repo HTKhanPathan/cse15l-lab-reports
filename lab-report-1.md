@@ -14,7 +14,7 @@ The command with a directory as an argument switches into that directory
 [user@sahara ~]$
 ```
 The command was run in the `/lecture1` directory \
-The command with no argument switches into the previous directory. If it is in a subdirectory like `/home/lecture1`, it will move into `/home`. \
+The command with no argument goes back to the home directoy, for example: `/home/lecture1`, will move into `/home`. \
 Not an error
 ## Testing cd with a file
 ```
@@ -22,7 +22,7 @@ Not an error
  bash: cd: lecture1/messages/en-us.txt: Not a directory
 ```
 Command run in the `/home directory` \
-Not an error \
+Is an error \
 The argument was a file name and it resulted in an error being thrown. The error was thrown because it could not find a directory with the name of the argument.
 # Testing ls commands
 ## Testing ls with no argument
@@ -61,7 +61,7 @@ Not an error
 cat: lecture1/: Is a directory
 ```
 When the cat command is run in the `/home` directory with a directory name as the argument it produces an error becuase it cannot concatenate directories. \
-Not an error
+Is an error
 ## Testing cat with a file
 ```
 [user@sahara ~]$ cat lecture1/messages/en-us.txt lecture1/messages/ur-pk.txt 
