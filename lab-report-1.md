@@ -14,7 +14,7 @@ The command with a directory as an argument switches into that directory
 [user@sahara ~]$
 ```
 The command was run in the `/lecture1` directory \
-The command with no argument goes back to the home directoy, for example: `/home/lecture1`, will move into `/home`. \
+The command with no argument goes back to the home directory, for example: `/home/lecture1`, will move into `/home`. \
 Not an error
 ## Testing cd with a file
 ```
