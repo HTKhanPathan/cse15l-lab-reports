@@ -35,7 +35,7 @@ class chatserver{
 }
 ```
 ## screenshots of using /add
-![Image](https://github.com/HTKhanPathan/cse15l-lab-reports/blob/main/screenshot%20of%20using%20%3Aadd%20message%20for%20the%20first%20time.png)
+![Image](https://github.com/HTKhanPathan/cse15l-lab-reports/blob/main/screenshot%20of%20using%20:add%20message%20for%20the%20first%20time.png?raw=true)
 The `main` method is called with the port as the argument. After that the Server is started and with the /add included to the url the `handleRequest` method is called with the url as the argument. \
 If `url.getPath()` contains the `/add` keyword, it will create three string arrays: `ampers` which includes everything after the `?` and splits at the `&` \
 `beforeAmper` includes what comes before the `&` and `postAmper` includes what comes after the `&`  both split at the `=` \ `msgString` is initialized with an empty string. \
@@ -53,8 +53,14 @@ With this specific url `/add-message?s=How are you&user=h4khan` ampers has two v
 This updated value of the msgString is the previous value with the new string appended to it. All other values got changed with new arguments while msgString got appended.
 
 # Part 2 of the lab report
+## screenshot of path on private computer
+![Image](https://github.com/HTKhanPathan/cse15l-lab-reports/blob/main/privComp.png?raw=true)
+The path is `/Users/hassankhan/.ssh/id_rsa.pub`
+## screenshot of path on remote computer
+![Image](https://github.com/HTKhanPathan/cse15l-lab-reports/blob/main/remoteComp.png?raw=true)
+The path is `/home/linux/ieng6/oce/95/h4khan/.ssh/authorized_keys`
 ## screenshot of ieng6 login requiring no password:
-![Image](https://github.com/HTKhanPathan/cse15l-lab-reports/blob/main/screenshot%20of%20ieng6%20with%20no%20pass.png)
+![Image](https://github.com/HTKhanPathan/cse15l-lab-reports/blob/main/screenshot%20of%20using%20:add%20message%20for%20the%20first%20time.png?raw=true)
 
 
 # part 3
