@@ -35,3 +35,6 @@ class chatserver{
 }
 ```
 ## screenshots of using /add
+![Image](screenshot of using :add message for the first time.png)
+# screenshot of using /add for the second time
+![Image](screen shot of using add message second time.png)
