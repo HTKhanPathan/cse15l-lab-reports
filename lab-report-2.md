@@ -1,6 +1,6 @@
 # Part 1 of the report
 ## chatserver code
-```
+```java
 import java.io.IOException;
 import java.net.URI;
 
@@ -44,7 +44,7 @@ With this specific url `/add-message?s=Hello&user=jpolitz` ampers has two values
 
 
 ## screenshot of using /add for the second time
-![Image](https://github.com/HTKhanPathan/cse15l-lab-reports/blob/main/screen%20shot%20of%20using%20add%20message%20second%20time.png)
+![Image](https://github.com/HTKhanPathan/cse15l-lab-reports/blob/main/screen%20shot%20of%20using%20add%20message%20second%20time.png?raw=true)
 The `main` method is called which in turn calls `handleRequest` method with the url as the argument. \
 If `url.getPath()` contains the `/add` keyword, it will create once again three string arrays: `ampers` which includes everything after the `?` and splits at the `&` \
 `beforeAmper` includes what comes before the `&` and `postAmper` includes what comes after the `&`  both split at the `=` \ `msgString` is `jpolitz: Hello`  \
