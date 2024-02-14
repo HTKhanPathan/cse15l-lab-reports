@@ -135,5 +135,5 @@ hassankhan@HTKs-MacBook-Pro docsearch % grep -no "circulation" ./technical/biome
 394:circulation
 397:circulation
 ```
-I then remembered how that -n shows the line number of the occurence and using it combination with -o resulted in the useless output of only -o to be actually \
-useful
+I then remembered how that -n shows the line number of the occurence and using it combination with -o resulted in \ 
+the useless output of only -o to be actually useful
