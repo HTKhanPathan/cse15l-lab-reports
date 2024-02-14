@@ -20,7 +20,7 @@ I chose the bug in the reverseInPlace method
 	}
 ```
 ## Symptom
-
+![Image](https://github.com/HTKhanPathan/cse15l-lab-reports/blob/main/code%20output%20error.png?raw=true)
 ## Bug before and after fix
 Before:
 ```
