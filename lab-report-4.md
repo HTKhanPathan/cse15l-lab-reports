@@ -13,7 +13,7 @@ keys pressed: `c,d,<space>, l,a,b,7, <Enter>, <up>,<up>,<up>,<up>,<up>,<up>,<up>
 24 key-presses
 ## step 7:
 ![Image](https://github.com/HTKhanPathan/cse15l-lab-reports/blob/main/step%207%20vim.png?raw=true) \
-keys: `v,i,m,<space>,L,<Tab>,.,<Tab>,<Enter>,x,i,2,<Esc>,:,w,q,<Enter>` using the `<Tab>` to autocomplete the name of file ListExamples and vim to open it in the editor. as it opened it was already at the specified index so \ 
+keys: `v,i,m,<space>,L,<Tab>,.,<Tab>,<Enter>,x,i,2,<Esc>,:,w,q,<Enter>` using the `<Tab>` to autocomplete the name of file ListExamples and vim to open it in the editor. as it opened it was already at the specified index so
 x to delete and i to insert 2 and then `:wq` to save and quit vim. \
 17 key-presses
 ## step 8:
