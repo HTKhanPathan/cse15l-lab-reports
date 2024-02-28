@@ -1,7 +1,7 @@
 # Lab 7 
 ## step 4:
 ![Image](https://github.com/HTKhanPathan/cse15l-lab-reports/blob/main/logging%20into%20ieng6.png?raw=true) \
-Keys pressed are:  ` s, <Ctrl-r>, <up>, <Enter> ` as the `ssh` command was only 1 up in the bash history given through `ctrl-r`
+Keys pressed are:  `s, <Ctrl-r>, <up>, <Enter>` as the `ssh` command was only 1 up in the bash history given through `ctrl-r`
 4 key-presses
 ## step 5:
 ![Image](https://github.com/HTKhanPathan/cse15l-lab-reports/blob/main/git%20clone.png?raw=true) \
@@ -19,7 +19,7 @@ x to delete and i to insert 2 and then `:wq` to save and quit vim. \
 ## step 8:
 ![Image](https://github.com/HTKhanPathan/cse15l-lab-reports/blob/main/step8.png?raw=true) \
 keys: `<up>,<up>,<up>,<Enter>,<up>,<up>,<up>,<Enter>` the `javac` command was 3 up and the `java` was also 3 up after history incremented
-8
+8 key presses
 ## step 9:
 ![Image](https://github.com/HTKhanPathan/cse15l-lab-reports/blob/main/git%20step%209.png?raw=true) \
 keys pressed: `g,i,t,<space>,a,d,d,<space>,.,<Enter>,g,i,t,<space>,c,o,m,m,i,t,<space>,-,m,<space>,",l,a,b,7,<space>,r,e,p,o,r,t,",<Enter>,g,i,t,<space>,p,u,s,h,<Enter>` I typed `git add .` to add current directory and then typed \
